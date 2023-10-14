@@ -7,7 +7,8 @@ const nextConfig = {
     images: {
         domains: [
             "images.pexels.com", 
-            "nextjs.org"
+            "nextjs.org",
+            "nareshit.com",
         ],
     }
 }
